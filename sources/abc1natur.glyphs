@@ -2,7 +2,9 @@
 .appVersion = "3246";
 .formatVersion = 3;
 DisplayStrings = (
-"ABCDEFGHIJKLMNOPQR/_baston.con.dos.puntas STUVWXYZ"
+"ABCDEFGHIJKLMNOPQR/_baston.con.dos.puntas STUVWXYZ",
+"-",
+"-–—_"
 );
 date = "2024-03-11 11:11:23 +0000";
 familyName = abc1natur;
@@ -1621,10 +1623,11 @@ unicode = 57;
 },
 {
 glyphname = space;
+lastChange = "2024-03-11 12:30:11 +0000";
 layers = (
 {
 layerId = m01;
-width = 200;
+width = 400;
 }
 );
 unicode = 32;
@@ -1651,13 +1654,80 @@ unicode = 44;
 },
 {
 glyphname = hyphen;
+lastChange = "2024-03-11 12:33:13 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+alignment = -1;
+angle = -39.1;
+pos = (-233,0);
+ref = _adorno;
+}
+);
+width = 351;
 }
 );
 unicode = 45;
+},
+{
+glyphname = endash;
+lastChange = "2024-03-11 12:32:20 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 40;
+pos = (-275,600);
+ref = _travesanio.cruzado;
+scale = (1,-1);
+}
+);
+width = 711;
+}
+);
+unicode = 8211;
+},
+{
+glyphname = emdash;
+lastChange = "2024-03-11 12:31:38 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (1544,140);
+ref = _baston.alcaucil.largo;
+}
+);
+width = 2111;
+}
+);
+unicode = 8212;
+},
+{
+glyphname = underscore;
+lastChange = "2024-03-11 12:32:45 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = -90;
+pos = (149,0);
+ref = _baston.corto;
+}
+);
+width = 1067;
+}
+);
+unicode = 95;
 },
 {
 export = 0;
