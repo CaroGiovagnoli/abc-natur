@@ -26,6 +26,4 @@ New tools and writing surfaces open up new possibilities for ductus and proporti
 
 Minimal nature. 2023.
 
-![https://github.com/CaroGiovagnoli/abc-natur-1/blob/main/specimen/naturaleza%20minima2.jpg]
-
-![PDF Specimen https://github.com/CaroGiovagnoli/abc-natur-1/blob/main/specimen/abc1natur.pdf]
+![PDF Specimen](specimen/abc1natur.pdf)
