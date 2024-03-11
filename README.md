@@ -10,6 +10,7 @@ Schriften sind ein System. Was ist ein System?
 Neue Werkzeuge und Schreibträger eröffnen uns neue Möglichkeiten des Duktus und der Proportionen, um einen Libre-Font zu entwickeln. Die Sprachenvielfalt ist überall.
 
 Naturaleza mínima. 2023
+![PDF Specimen https://github.com/CaroGiovagnoli/abc-natur-1/blob/main/specimen/abc1natur.pdf]
 
 ///
 
@@ -23,3 +24,5 @@ New tools and writing surfaces open up new possibilities for ductus and proporti
 Minimal nature. 2023.
 
 ![https://github.com/CaroGiovagnoli/abc-natur-1/blob/main/specimen/naturaleza%20minima2.jpg]
+
+![PDF Specimen https://github.com/CaroGiovagnoli/abc-natur-1/blob/main/specimen/abc1natur.pdf]
