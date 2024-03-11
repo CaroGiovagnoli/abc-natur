@@ -21,3 +21,5 @@ Fonts are a system. What is a system?
 New tools and writing surfaces open up new possibilities for ductus and proportions to develop a Libre Font. Diversity is everywhere.
 
 Minimal nature. 2023.
+
+![image] (https://github.com/CaroGiovagnoli/abc-natur-1/blob/main/specimen/naturaleza%20minima2.jpg?raw=true)
