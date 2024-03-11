@@ -1,7 +1,7 @@
 # abc-natur-1
 This font was inspired by the spring season of 2023.
 
-![Naturaleza mínima 2023](specimen/naturaleza-minima2.jpg)
+![Naturaleza mínima 2023](specimen/naturalezaminima2.jpg)
 
 Type system intended for optimizing the available space in press media and other publications. It has a compact appearance which allows for small font sizes and tight leading while achieving solid lines and robust paragraphs.
 
