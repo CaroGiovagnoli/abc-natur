@@ -4,7 +4,9 @@
 DisplayStrings = (
 "ABCDEFGHIJKLMNOPQR/_baston.con.dos.puntas STUVWXYZ",
 "-",
-"-–—_"
+"-–—_",
+"¨",
+"UÜ¨̈"
 );
 date = "2024-03-28 09:29:43 +0000";
 familyName = abc1natur;
@@ -854,9 +856,27 @@ unicode = 84;
 },
 {
 glyphname = U;
-lastChange = "2024-02-05 15:14:20 +0000";
+lastChange = "2024-03-28 11:56:46 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (558,0);
+},
+{
+name = ogonek;
+pos = (1004,10);
+},
+{
+name = top;
+pos = (698,700);
+},
+{
+name = topright;
+pos = (1095,700);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -880,6 +900,26 @@ width = 1115;
 }
 );
 unicode = 85;
+},
+{
+glyphname = Udieresis;
+lastChange = "2024-03-28 11:56:46 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (399,200);
+ref = dieresiscomb;
+}
+);
+width = 1115;
+}
+);
+unicode = 220;
 },
 {
 glyphname = V;
@@ -1752,6 +1792,56 @@ width = 1067;
 }
 );
 unicode = 95;
+},
+{
+glyphname = dieresiscomb;
+lastChange = "2024-03-28 11:56:19 +0000";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (299,500);
+},
+{
+name = top;
+pos = (299,1126);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = dieresis;
+}
+);
+width = 664;
+}
+);
+unicode = 776;
+},
+{
+glyphname = dieresis;
+lastChange = "2024-03-28 11:57:05 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (340,572);
+ref = _frutita.durazno.2;
+},
+{
+alignment = -1;
+pos = (43,973);
+ref = _frututia.durazno.3;
+scale = (1,-1);
+}
+);
+width = 664;
+}
+);
+unicode = 168;
 },
 {
 export = 0;
