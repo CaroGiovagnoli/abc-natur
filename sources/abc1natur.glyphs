@@ -1,12 +1,12 @@
 {
-.appVersion = "3246";
+.appVersion = "3249";
 .formatVersion = 3;
 DisplayStrings = (
 "ABCDEFGHIJKLMNOPQR/_baston.con.dos.puntas STUVWXYZ",
 "-",
 "-–—_"
 );
-date = "2024-03-11 11:11:23 +0000";
+date = "2024-03-28 09:29:43 +0000";
 familyName = abc1natur;
 fontMaster = (
 {
@@ -1634,20 +1634,44 @@ unicode = 32;
 },
 {
 glyphname = period;
+lastChange = "2024-03-28 09:28:50 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+alignment = -1;
+pos = (20,269);
+ref = _espinillo.chico;
+scale = (1.2653,1.2653);
+}
+);
+width = 450;
 }
 );
 unicode = 46;
 },
 {
 glyphname = comma;
+lastChange = "2024-03-28 09:28:42 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+alignment = -1;
+pos = (20,269);
+ref = _espinillo.chico;
+scale = (1.2653,1.2653);
+},
+{
+alignment = -1;
+angle = -143.70815;
+pos = (211,503);
+ref = _travesanio.cruzado;
+}
+);
+width = 663;
 }
 );
 unicode = 44;
