@@ -6,7 +6,8 @@ DisplayStrings = (
 "-",
 "-–—_",
 "¨",
-"UÜ¨̈"
+"UÜ¨̈",
+"ÄËıÏOÖÜ"
 );
 date = "2024-03-28 09:29:43 +0000";
 familyName = abc1natur;
@@ -63,6 +64,41 @@ width = 1283;
 }
 );
 unicode = 65;
+},
+{
+glyphname = Adieresis;
+lastChange = "2024-03-29 07:27:22 +0000";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (299,1126);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+alignment = -1;
+pos = (858,572);
+ref = _frutita.durazno.2;
+},
+{
+alignment = -1;
+pos = (245,973);
+ref = _frututia.durazno.3;
+scale = (1,-1);
+}
+);
+width = 1283;
+}
+);
+metricLeft = A;
+metricRight = A;
+unicode = 196;
 },
 {
 glyphname = B;
@@ -356,9 +392,27 @@ unicode = 68;
 },
 {
 glyphname = E;
-lastChange = "2024-02-05 15:14:30 +0000";
+lastChange = "2024-03-29 07:24:51 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (633,0);
+},
+{
+name = ogonek;
+pos = (1139,10);
+},
+{
+name = top;
+pos = (633,700);
+},
+{
+name = topleft;
+pos = (20,700);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -374,6 +428,41 @@ width = 1266;
 }
 );
 unicode = 69;
+},
+{
+glyphname = Edieresis;
+lastChange = "2024-03-29 07:27:29 +0000";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (633,1326);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+alignment = -1;
+pos = (394,812);
+ref = _frutita.durazno.2;
+},
+{
+alignment = -1;
+pos = (112,936);
+ref = _frututia.durazno.3;
+scale = (1,-1);
+}
+);
+width = 1266;
+}
+);
+metricLeft = E;
+metricRight = E;
+unicode = 203;
 },
 {
 glyphname = F;
@@ -477,6 +566,42 @@ width = 367;
 }
 );
 unicode = 73;
+},
+{
+glyphname = Idieresis;
+lastChange = "2024-03-29 07:27:37 +0000";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (-124,1133);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (333,934);
+ref = _frutita.durazno.2;
+},
+{
+alignment = -1;
+pos = (10,1037);
+ref = _frututia.durazno.3;
+scale = (1,-1);
+},
+{
+pos = (220,0);
+ref = idotless;
+}
+);
+width = 620;
+}
+);
+metricLeft = I;
+metricRight = I;
+unicode = 207;
 },
 {
 glyphname = J;
@@ -645,9 +770,35 @@ unicode = 78;
 },
 {
 glyphname = O;
-lastChange = "2024-02-05 15:14:18 +0000";
+lastChange = "2024-03-29 07:26:11 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (706,0);
+},
+{
+name = center;
+pos = (706,350);
+},
+{
+name = ogonek;
+pos = (1271,10);
+},
+{
+name = top;
+pos = (706,700);
+},
+{
+name = topleft;
+pos = (20,700);
+},
+{
+name = topright;
+pos = (1392,700);
+}
+);
 background = {
 shapes = (
 {
@@ -675,6 +826,26 @@ width = 1412;
 }
 );
 unicode = 79;
+},
+{
+glyphname = Odieresis;
+lastChange = "2024-03-29 07:26:11 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (407,200);
+ref = dieresiscomb;
+}
+);
+width = 1412;
+}
+);
+unicode = 214;
 },
 {
 glyphname = P;
@@ -1370,6 +1541,39 @@ width = 918;
 }
 );
 unicode = 105;
+},
+{
+glyphname = idotless;
+lastChange = "2024-03-29 07:25:56 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (184,0);
+},
+{
+name = ogonek;
+pos = (357,0);
+},
+{
+name = top;
+pos = (184,500);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 86;
+pos = (993,-274);
+ref = _travesanio.con.hojitas;
+}
+);
+width = 367;
+}
+);
+unicode = 305;
 },
 {
 glyphname = j;
