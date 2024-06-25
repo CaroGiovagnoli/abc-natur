@@ -4,7 +4,8 @@
 DisplayStrings = (
 ABCDEFGHILMNPRST,
 ABCDEFGHIJKLMNOPQRSTU,
-"THE QUICK BROWN FOX JUMPS OVER THE CRAZY DOG"
+"THE QUICK BROWN FOX JUMPS OVER THE CRAZY DOG",
+"012"
 );
 date = "2024-06-10 07:08:18 +0000";
 familyName = "abc-natur-berlin-schleifengarten";
@@ -2496,7 +2497,7 @@ unicode = 49;
 },
 {
 glyphname = two;
-lastChange = "2024-06-25 06:49:05 +0000";
+lastChange = "2024-06-25 06:58:38 +0000";
 layers = (
 {
 layerId = m01;
@@ -2508,8 +2509,8 @@ ref = _baston.corto.7;
 scale = (1,-1);
 },
 {
-angle = 17.1;
-pos = (127,609);
+angle = -114.9;
+pos = (529,129);
 ref = _baston.corto.8;
 scale = (1,-1);
 },
@@ -2520,13 +2521,14 @@ ref = _baston.mediano.8;
 scale = (1,-1);
 },
 {
-pos = (277,730);
+angle = -5.1;
+pos = (310,740);
 ref = _baston.doblado.3;
 scale = (1,-1);
 },
 {
-angle = 3.1;
-pos = (62,744);
+angle = 7.1;
+pos = (24,742);
 ref = _baston.doblado.4;
 scale = (1,-1);
 },
@@ -2545,13 +2547,19 @@ ref = _baston.doblado.2;
 {
 alignment = -1;
 angle = -90;
-pos = (125,57);
+pos = (142,57);
 ref = _baston.mediano.11.grueso;
 },
 {
 angle = -176.06527;
 pos = (291,408);
 ref = _baston.corto.8;
+},
+{
+alignment = -1;
+angle = -130;
+pos = (104,480);
+ref = _baston.doble.2;
 }
 );
 width = 600;
