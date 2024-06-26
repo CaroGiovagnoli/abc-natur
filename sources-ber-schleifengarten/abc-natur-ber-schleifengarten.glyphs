@@ -2,10 +2,7 @@
 .appVersion = "3306";
 .formatVersion = 3;
 DisplayStrings = (
-ABCDEFGHILMNPRST,
-ABCDEFGHIJKLMNOPQRSTU,
-"THE QUICK BROWN FOX JUMPS OVER THE CRAZY DOG",
-"012"
+B
 );
 date = "2024-06-10 07:08:18 +0000";
 familyName = "abc-natur-berlin-schleifengarten";
@@ -55,7 +52,7 @@ HTLSManagerMasterRules = {
 glyphs = (
 {
 glyphname = A;
-lastChange = "2024-06-21 07:47:31 +0000";
+lastChange = "2024-06-26 06:12:20 +0000";
 layers = (
 {
 layerId = m01;
@@ -86,66 +83,151 @@ alignment = -1;
 angle = -161.1;
 pos = (420,618);
 ref = _baston.mediano.6;
+},
+{
+alignment = -1;
+angle = -18.33745;
+pos = (103,132);
+ref = _baston.doble.2;
+},
+{
+angle = -5.50394;
+pos = (451,27);
+ref = _baston.mediano.1;
+},
+{
+angle = -179.86431;
+pos = (296,156);
+ref = _baston.mediano.2;
+scale = (1,-1);
+},
+{
+angle = 179.17779;
+pos = (187,436);
+ref = _baston.mediano.3;
 }
 );
-width = 627;
+width = 638;
 }
 );
 unicode = 65;
 },
 {
 glyphname = B;
-lastChange = "2024-06-19 08:33:35 +0000";
+lastChange = "2024-06-26 06:11:10 +0000";
 layers = (
 {
+background = {
+shapes = (
+{
+alignment = -1;
+angle = 90;
+pos = (681,13);
+ref = _baston.corto.5;
+},
+{
+alignment = -1;
+pos = (392,-9);
+ref = _baston.corto.7;
+},
+{
+angle = -5.1;
+pos = (310,246);
+ref = _baston.corto.8;
+},
+{
+angle = 4.9;
+pos = (109,6);
+ref = _baston.mediano.8;
+},
+{
+pos = (279,0);
+ref = _baston.doblado.3;
+},
+{
+alignment = -1;
+angle = 67.22762;
+pos = (123,343);
+ref = _baston.corto.4;
+scale = (1,-1);
+}
+);
+};
 layerId = m01;
 shapes = (
 {
 alignment = -1;
 angle = -1.1;
-pos = (77,-12);
+pos = (103,-12);
 ref = _baston.mediano.6;
 },
 {
-pos = (92,161);
+pos = (118,161);
 ref = _bifuracion.3;
 },
 {
 alignment = -1;
-pos = (108,705);
+pos = (134,705);
 ref = _bifuracion.2;
 scale = (1,-1);
 },
 {
 alignment = -1;
-angle = 14.4982;
-pos = (414,-225);
+angle = -7.5018;
+pos = (240,983);
 ref = _baston.corto.2;
-scale = (-1,1);
-},
-{
-alignment = -1;
-pos = (245,613);
-ref = _baston.doble.2;
 scale = (1,-1);
 },
 {
 angle = 43.43035;
-pos = (447,-174);
+pos = (413,159);
 ref = _baston.mediano.4;
 },
 {
 angle = 166.79411;
-pos = (594,550);
+pos = (596,562);
 ref = _baston.mediano.4;
 },
 {
 angle = -86.06527;
-pos = (-272,283);
+pos = (-246,283);
 ref = _baston.corto.8;
+},
+{
+alignment = -1;
+angle = 90;
+pos = (681,13);
+ref = _baston.corto.5;
+},
+{
+alignment = -1;
+pos = (392,-9);
+ref = _baston.corto.7;
+},
+{
+pos = (279,0);
+ref = _baston.doblado.3;
+},
+{
+alignment = -1;
+angle = 75.22762;
+pos = (119,331);
+ref = _baston.corto.4;
+scale = (1,-1);
+},
+{
+alignment = -1;
+angle = -40;
+pos = (-288,286);
+ref = _baston.doble.2;
+},
+{
+angle = -27.16649;
+pos = (-31,153);
+ref = _baston.mediano.1;
 }
 );
-width = 558;
+width = 618;
 }
 );
 unicode = 66;
@@ -389,7 +471,7 @@ unicode = 71;
 },
 {
 glyphname = H;
-lastChange = "2024-06-25 06:51:40 +0000";
+lastChange = "2024-06-26 06:15:08 +0000";
 layers = (
 {
 layerId = m01;
@@ -2387,7 +2469,7 @@ unicode = 122;
 },
 {
 glyphname = zero;
-lastChange = "2024-06-25 06:51:39 +0000";
+lastChange = "2024-06-26 06:15:08 +0000";
 layers = (
 {
 layerId = m01;
@@ -2447,7 +2529,7 @@ unicode = 48;
 },
 {
 glyphname = one;
-lastChange = "2024-06-25 06:51:41 +0000";
+lastChange = "2024-06-26 06:15:08 +0000";
 layers = (
 {
 layerId = m01;
@@ -2569,9 +2651,69 @@ unicode = 50;
 },
 {
 glyphname = three;
+lastChange = "2024-06-26 06:15:00 +0000";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (148,154);
+ref = _bifuracion.3;
+},
+{
+alignment = -1;
+angle = -7.5018;
+pos = (240,963);
+ref = _baston.corto.2;
+scale = (1,-1);
+},
+{
+angle = 43.43035;
+pos = (413,139);
+ref = _baston.mediano.4;
+},
+{
+angle = -156.79411;
+pos = (546,235);
+ref = _baston.mediano.4;
+scale = (1,-1);
+},
+{
+alignment = -1;
+angle = 84;
+pos = (673,-58);
+ref = _baston.corto.5;
+},
+{
+alignment = -1;
+pos = (370,-29);
+ref = _baston.corto.7;
+},
+{
+pos = (279,-20);
+ref = _baston.doblado.3;
+},
+{
+alignment = -1;
+angle = 75.22762;
+pos = (119,311);
+ref = _baston.corto.4;
+scale = (1,-1);
+},
+{
+angle = -5.1;
+pos = (277,768);
+ref = _baston.doblado.3;
+scale = (1,-1);
+},
+{
+angle = 7.1;
+pos = (24,722);
+ref = _baston.doblado.4;
+scale = (1,-1);
+}
+);
 width = 600;
 }
 );
