@@ -1,5 +1,5 @@
 {
-.appVersion = "3249";
+.appVersion = "3306";
 .formatVersion = 3;
 DisplayStrings = (
 "ABCDEFGHIJKLMNOPQR/_baston.con.dos.puntas STUVWXYZ",
@@ -10,7 +10,7 @@ DisplayStrings = (
 "ÄËıÏOÖÜ"
 );
 date = "2024-03-28 09:29:43 +0000";
-familyName = abc1natur;
+familyName = "abc-natur-berlin-pankow";
 fontMaster = (
 {
 id = m01;
@@ -5528,7 +5528,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2024 Carolina Giovagnoli The ABC 1 Natur Project ";
+value = "Copyright 2024 Carolina Giovagnoli The ABC Natur Project ";
 }
 );
 },
@@ -5576,7 +5576,7 @@ key = trademarks;
 values = (
 {
 language = dflt;
-value = "ABC 1 Natur is a trademark of Carolina Giovagnoli (huertatipografica.com.ar).";
+value = "ABC Natur is a trademark of Carolina Giovagnoli (huertatipografica.com.ar).";
 }
 );
 },
