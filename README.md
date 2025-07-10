@@ -6,10 +6,13 @@ This project start at the spring season of 2023. It's ongoing.
 Es könnte ein text sein werden 
 
 Tipografía es sistema, ¿qué es sistema? 
+Podría ser un sistema
 
 Schriften sind ein System. Was ist ein System?
 
 Fonts are a system. What is a system?
+
+¿Qué ocurre cuando desvinculamos herramienta y soporte, cando no se condicionan mutuamente, cuándo no hay soporte, cuándo no hay herramienta de dibujo, qué pasa cuando nos desvinculamos de las herramientas y los sosportes?
 
 Neue Werkzeuge und Schreibträger eröffnen uns neue Möglichkeiten des Duktus und der Proportionen, um einen Libre-Font zu entwickeln. Die Sprachenvielfalt ist überall.
 
