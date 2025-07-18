@@ -21,3 +21,9 @@ New tools and writing surfaces open up new possibilities for ductus and proporti
 Minimal nature. 2023.
 
 It could be a text / Podría ser un texto
+
+# Cómo utiizar estas fuentes
+Ir a la carpeta Font, allí puedes descargar los arhcivo otf.
+Esos archivo otf puedes instalarlos en tu ordenador/computadora.
+Si utiizas mac, haces doble clic y al abrirse la ventana de preview, hacer click en instalar
+Si utilizas pc, hace click sobre el archivo con el botón derecho y elijes instalar.
